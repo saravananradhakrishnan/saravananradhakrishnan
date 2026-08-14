@@ -11,7 +11,7 @@
 
 ## 🎯 About Me
 
-I'm a Principal Software Engineer specializing in **Agentic AI, Distributed Systems, and Enterprise RAG solutions**. My work focuses on architecting reliable, scalable AI systems that move beyond simple LLM wrappers to become robust engineering platforms.
+I'm a Principal Software Engineer specializing in **Agentic AI, Distributed Systems, and Enterprise RAG solutions**. My work focuses on architecting reliable, scalable AI systems that move beyond [...]
 
 **Mission:** Making AI agents production-ready through orchestration, observability, and resilient design patterns.
 
@@ -58,11 +58,11 @@ I'm a Principal Software Engineer specializing in **Agentic AI, Distributed Syst
 
 ## 🚀 Featured Projects & Initiatives
 
-### **Agentic Web Researcher**
+### **[Agentic Web Researcher](https://github.com/saravananradhakrishnan/WebCrawler)**
 Research and analysis automation using multi-agent workflows. Combines web scraping, LLM reasoning, and tool orchestration to gather and synthesize information at scale.
 - **Tech:** CrewAI · Multi-Agent Orchestration · Web Tools · LLMs
 
-### **AI Content Studio**
+### **[AI Content Studio](https://github.com/saravananradhakrishnan/AiContentStudio)**
 End-to-end AI platform for content creation, SEO optimization, taxonomy generation, and accessibility compliance.
 - **Tech:** Multi-Agent AI · LangChain · Vector Search · NLP
 
@@ -71,13 +71,13 @@ Intelligent incident investigation and postmortem generation using RAG over inci
 - **Tech:** RAG · Agents · Enterprise Search · Knowledge Systems
 
 ### **CMDB**
-Built a CMDB for organization integrated data from more than 16 enterprise systems and created a unified inventory of over 50,000 organizational assets, significantly improving asset visibility and operational decision-making.
+Built a CMDB for organization integrated data from more than 16 enterprise systems and created a unified inventory of over 50,000 organizational assets, significantly improving asset visibility and op[...]
 - **Tech:** Python · Fast API · Enterprise Integration
 
 ### **Automation Initiative**
 Led multiple automation initiatives, such as Certificate renewal for Windows SQL servers and Asset lifecycle management eliminating manual effort and improving operational reliability.
 
-### **Agentic Engineering Workflow**
+### **[Agentic Engineering Workflow](https://github.com/saravananradhakrishnan/CodeReviewAgent)**
 AI agents supporting the full software engineering lifecycle: code review, testing, documentation, and deployment assistance.
 - **Tech:** Agentic AI · Tool Calling · Code Analysis · Git Integration
 
