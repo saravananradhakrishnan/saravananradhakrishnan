@@ -49,7 +49,7 @@ I'm a Principal Software Engineer specializing in **Agentic AI, Distributed Syst
 
 ### ☁️ Cloud & Platform Engineering
 - GCP expertise (Vertex AI, Cloud Run, Pub/Sub)
-- Kubernetes orchestration and containerization
+- Docker containerization
 - CI/CD pipelines and observability
 - Cloud-native architecture patterns
 - GenAI platform engineering
@@ -66,13 +66,16 @@ Research and analysis automation using multi-agent workflows. Combines web scrap
 End-to-end AI platform for content creation, SEO optimization, taxonomy generation, and accessibility compliance.
 - **Tech:** Multi-Agent AI · LangChain · Vector Search · NLP
 
-### **Incident Management AI**
+### **Incident Bot Assistant**
 Intelligent incident investigation and postmortem generation using RAG over incident data, logs, and knowledge base.
 - **Tech:** RAG · Agents · Enterprise Search · Knowledge Systems
 
-### **CMDB AI Assistant**
-Semantic search and reasoning engine over enterprise asset data. Combines BM25 and vector search for intelligent asset discovery.
-- **Tech:** RAG · Hybrid Search · BM25 · pgvector · Enterprise Integration
+### **CMDB**
+Built a CMDB for organization integrated data from more than 16 enterprise systems and created a unified inventory of over 50,000 organizational assets, significantly improving asset visibility and operational decision-making.
+- **Tech:** Python · Fast API · Enterprise Integration
+
+### **Automation Initiative**
+Led multiple automation initiatives, such as Certificate renewal for Windows SQL servers and Asset lifecycle management eliminating manual effort and improving operational reliability.
 
 ### **Agentic Engineering Workflow**
 AI agents supporting the full software engineering lifecycle: code review, testing, documentation, and deployment assistance.
@@ -90,10 +93,10 @@ AI agents supporting the full software engineering lifecycle: code review, testi
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### **AI & Machine Learning**
-- **Frameworks:** LangChain, CrewAI, AutoGen, LlamaIndex
+- **Frameworks:** LangChain, CrewAI, LlamaIndex
 - **LLMs:** Gemini, OpenAI, Claude, open-source models
 - **Embeddings:** OpenAI, Vertex AI Embeddings, local embeddings
-- **Vector Databases:** pgvector, Pinecone, Weaviate, Qdrant
+- **Vector Databases:** pgvector
 - **RAG:** Hybrid retrieval, BM25, semantic search, RRF
 
 ### **Backend & APIs**
