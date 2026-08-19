@@ -60,8 +60,7 @@ I'm a Principal Software Engineer specializing in **Agentic AI, Distributed Syst
 
 ### 🏗️ **[Agentic Engineering Workflow](https://github.com/saravananradhakrishnan/agentic-engineering-workflow)**
 AI-powered software engineering workflow using specialized agents for requirements analysis, architecture, implementation, testing, and validation.
-**Focus:** Agentic AI · Multi-Agent Systems · Software Engineering · AI Orchestration
-**Tech:** Python · LangChain · LangGraph
+- **Tech:** Python · LangChain · LangGraph · Agentic AI · Multi-Agent Systems · AI Orchestration
   
 ### **[Agentic Web Researcher](https://github.com/saravananradhakrishnan/WebCrawler)**
 Research and analysis automation using multi-agent workflows. Combines web scraping, LLM reasoning, and tool orchestration to gather and synthesize information at scale.
