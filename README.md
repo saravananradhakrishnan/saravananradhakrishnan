@@ -56,7 +56,37 @@ I'm a Principal Software Engineer specializing in **Agentic AI, Distributed Syst
 
 ---
 
-## 🚀 Featured Projects & Initiatives
+##💼 Professional / Organization Projects
+
+These projects were developed as part of my professional work, solving real-world enterprise problems. Due to organizational confidentiality and security policies, source code, internal data, detailed architecture, and implementation specifics cannot be publicly shared. The descriptions below highlight my contributions, technologies, and the problems addressed.
+
+###🤖 **Incident Bot Assistant**
+
+Intelligent Incident Investigation & Postmortem Generation
+
+Built an intelligent assistant for incident investigation and postmortem generation using RAG over incident data, logs, and organizational knowledge bases.
+
+- **Tech:** RAG · AI Agents · Enterprise Search · Knowledge Systems · GCP · Python · RabbitMQ · Redis
+
+###🗄️ **CMDB**
+
+Unified Enterprise Asset & Configuration Management
+
+Built a CMDB integrating data from 16+ enterprise systems, creating a unified inventory of 50,000+ organizational assets and improving enterprise asset visibility.
+
+- **Tech:** Python · FastAPI · Enterprise Integration · ETL Pipeline
+
+###⚙️ **Enterprise Automation Initiatives**
+
+Automation & Operational Reliability
+
+Led multiple automation initiatives, including certificate renewal for Windows SQL servers and asset lifecycle management, reducing manual effort and improving operational reliability.
+
+- **Tech:** Python · Automation · Windows · SQL Server · Enterprise Systems · FastAPI · React · RabbitMQ · Redis
+
+##🚀 Professional Engineering Initiatives
+
+These initiatives represent engineering improvements, proof-of-concepts, and platform capabilities developed to address specific technical and operational challenges.
 
 ### 🏗️ **[Agentic Engineering Workflow](https://github.com/saravananradhakrishnan/agentic-engineering-workflow)**
 AI-powered software engineering workflow using specialized agents for requirements analysis, architecture, implementation, testing, and validation.
@@ -69,17 +99,6 @@ Research and analysis automation using multi-agent workflows. Combines web scrap
 ### **[AI Content Studio](https://github.com/saravananradhakrishnan/AiContentStudio)**
 End-to-end AI platform for content creation, SEO optimization, taxonomy generation, and accessibility compliance.
 - **Tech:** Multi-Agent AI · LangChain · Vector Search · NLP
-
-### **Incident Bot Assistant**
-Intelligent incident investigation and postmortem generation using RAG over incident data, logs, and knowledge base.
-- **Tech:** RAG · Agents · Enterprise Search · Knowledge Systems
-
-### **CMDB**
-Built a CMDB for organization integrated data from more than 16 enterprise systems and created a unified inventory of over 50,000 organizational assets, significantly improving asset visibility and op[...]
-- **Tech:** Python · Fast API · Enterprise Integration
-
-### **Automation Initiative**
-Led multiple automation initiatives, such as Certificate renewal for Windows SQL servers and Asset lifecycle management eliminating manual effort and improving operational reliability.
 
 ### **[Agentic Code Analyser](https://github.com/saravananradhakrishnan/CodeReviewAgent)**
 An end-to-end multi-agent AI system built using CrewAI and Google Gemini LLM that automates static code analysis, security vulnerability auditing, code refactoring, and quality verification with an interactive Streamlit dashboard
