@@ -56,11 +56,11 @@ I'm a Principal Software Engineer specializing in **Agentic AI, Distributed Syst
 
 ---
 
-##💼 Professional / Organization Projects
+## 💼 Professional / Organization Projects
 
 These projects were developed as part of my professional work, solving real-world enterprise problems. Due to organizational confidentiality and security policies, source code, internal data, detailed architecture, and implementation specifics cannot be publicly shared. The descriptions below highlight my contributions, technologies, and the problems addressed.
 
-###🤖 **Incident Bot Assistant**
+### 🤖 **Incident Bot Assistant**
 
 Intelligent Incident Investigation & Postmortem Generation
 
@@ -68,7 +68,7 @@ Built an intelligent assistant for incident investigation and postmortem generat
 
 - **Tech:** RAG · AI Agents · Enterprise Search · Knowledge Systems · GCP · Python · RabbitMQ · Redis
 
-###🗄️ **CMDB**
+### 🗄️ **CMDB**
 
 Unified Enterprise Asset & Configuration Management
 
@@ -76,7 +76,7 @@ Built a CMDB integrating data from 16+ enterprise systems, creating a unified in
 
 - **Tech:** Python · FastAPI · Enterprise Integration · ETL Pipeline
 
-###⚙️ **Enterprise Automation Initiatives**
+### ⚙️ **Enterprise Automation Initiatives**
 
 Automation & Operational Reliability
 
@@ -84,7 +84,7 @@ Led multiple automation initiatives, including certificate renewal for Windows S
 
 - **Tech:** Python · Automation · Windows · SQL Server · Enterprise Systems · FastAPI · React · RabbitMQ · Redis
 
-##🚀 Professional Engineering Initiatives
+## 🚀 Professional Engineering Initiatives
 
 These initiatives represent engineering improvements, proof-of-concepts, and platform capabilities developed to address specific technical and operational challenges.
 
