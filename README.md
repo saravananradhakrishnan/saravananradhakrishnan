@@ -58,6 +58,11 @@ I'm a Principal Software Engineer specializing in **Agentic AI, Distributed Syst
 
 ## 🚀 Featured Projects & Initiatives
 
+### 🏗️ **[Agentic Engineering Workflow](https://github.com/saravananradhakrishnan/agentic-engineering-workflow)**
+AI-powered software engineering workflow using specialized agents for requirements analysis, architecture, implementation, testing, and validation.
+**Focus:** Agentic AI · Multi-Agent Systems · Software Engineering · AI Orchestration
+**Tech:** Python · LangChain · LangGraph
+  
 ### **[Agentic Web Researcher](https://github.com/saravananradhakrishnan/WebCrawler)**
 Research and analysis automation using multi-agent workflows. Combines web scraping, LLM reasoning, and tool orchestration to gather and synthesize information at scale.
 - **Tech:** CrewAI · Multi-Agent Orchestration · Web Tools · LLMs
@@ -77,9 +82,8 @@ Built a CMDB for organization integrated data from more than 16 enterprise syste
 ### **Automation Initiative**
 Led multiple automation initiatives, such as Certificate renewal for Windows SQL servers and Asset lifecycle management eliminating manual effort and improving operational reliability.
 
-### **[Agentic Engineering Workflow](https://github.com/saravananradhakrishnan/CodeReviewAgent)**
-AI agents supporting the full software engineering lifecycle: code review, testing, documentation, and deployment assistance.
-- **Tech:** Agentic AI · Tool Calling · Code Analysis · Git Integration
+### **[Agentic Code Analyser](https://github.com/saravananradhakrishnan/CodeReviewAgent)**
+An end-to-end multi-agent AI system built using CrewAI and Google Gemini LLM that automates static code analysis, security vulnerability auditing, code refactoring, and quality verification with an interactive Streamlit dashboard
 
 ---
 
